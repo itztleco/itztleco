@@ -1,4 +1,6 @@
-### Is anyone loking my profile, question? 😶
+### Is anyone looking my profile, question? 😶
+
+"" - 
 
 - 🌱 I’m currently learning UX desing [✨], gamedev [🎮] and probably other things 🤔
 - 📫 How to reach me: IG @cupofdevlogs
