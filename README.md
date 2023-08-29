@@ -2,8 +2,11 @@
 
 "" - 
 
-- 🌱 I’m currently learning UX desing [✨], gamedev [🎮] and probably other things 🤔
+- 🌱 I’m currently learning UX design [✨], gamedev [🎮] and probably other things 🤔
 - 📫 How to reach me: IG @cupofdevlogs
+
+### 2023 planning projects
+- [ ] (status: planning) smartphone videogame (name to be revealed...) 
 
 
 <!--
