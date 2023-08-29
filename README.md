@@ -1,4 +1,8 @@
-### Hi there 👋
+### Is anyone loking my profile, question? 😶
+
+- 🌱 I’m currently learning UX desing [✨], gamedev [🎮] and probably other things 🤔
+- 📫 How to reach me: IG @cupofdevlogs
+
 
 <!--
 **itztleco/itztleco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
